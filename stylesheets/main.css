@@ -139,6 +139,6 @@ h2 {
 }
 
 
-.dept-tablinks {
+.dept-tablinks:hover {
     cursor: pointer;
 }
