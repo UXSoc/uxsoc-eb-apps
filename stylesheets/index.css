@@ -3,8 +3,8 @@
 }
 
 body {
-  font-family: "Proxima Nova", -apple-system, BlinkMacSystemFont, Helvetica,
-    "Helvetica Neue", "Roboto", sans-serif;
+  font-family: Roboto, sans-serif;
+  /* font-family: Proxima Nova, sans-serif; */
   margin: 0px;
   background: #47474A;
 }
@@ -51,7 +51,8 @@ body {
   font-size: 18px;
   letter-spacing: 0.05em;
   color: white;
-  font-family: Proxima Nova;
+  font-family: Roboto;
+  /* font-family: Proxima Nova; */
   font-weight: bold;
 }
 
@@ -61,7 +62,8 @@ body {
   color: white !important;
   text-decoration: none;
   font-size: 16px;
-  font-family: Proxima Nova;
+  font-family: Roboto;
+  /* font-family: Proxima Nova; */
   letter-spacing: 0.05em;
   border: 2px solid white;
   border-radius: 4px;
@@ -75,7 +77,8 @@ body {
   padding: 16px 0;
   text-align: center;
   font-size: 14px;
-  font-family: Proxima Nova;
+  font-family: Roboto;
+  /* font-family: Proxima Nova; */
 }
 
 /* MAIN */
@@ -90,7 +93,8 @@ main {
 
 .main__spiel {
   color: white;
-  font-family: proxima nova;
+  font-family: Roboto;
+  /* font-family: Proxima Nova; */
   font-size: 18px;
   line-height: 40px;
   text-align: center;
@@ -103,7 +107,8 @@ main {
 }
 
 .title {
-  font-family: Proxima Nova;
+  font-family: Roboto;
+  /* font-family: Proxima Nova; */
   font-weight: bold;
   font-size: 32px;
   line-height: 50px;
@@ -127,7 +132,8 @@ main {
 
 /* Style the buttons that are used to open the tab content */
 .dept-tabs button {
-  font-family: Proxima Nova;
+  font-family: Roboto;
+  /* font-family: Proxima Nova; */
   font-weight: bold;
   font-size: 15px;
   margin-top: 10px;
